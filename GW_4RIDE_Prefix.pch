@@ -1,0 +1,8 @@
+//
+// Prefix header for all source files of the 'View_Switcher' target in the 'View_Switcher' project
+//
+
+#ifdef __OBJC__
+    #import <Foundation/Foundation.h>
+    #import <UIKit/UIKit.h>
+#endif
